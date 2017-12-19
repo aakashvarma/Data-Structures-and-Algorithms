@@ -1,7 +1,7 @@
 # Data-Structures-and-Algorithms
 Notes for Data Structures and Algorithms
 
-##Introduction to Data Structures:
+###Introduction to Data Structures:
 Example: Dictionary, everything in a dictionary is organised that is the reason why the sorting is easy or else it would have been very difficult.
 
 Computers work with text, images, videos, etc...
